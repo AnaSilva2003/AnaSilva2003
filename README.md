@@ -5,3 +5,4 @@
 - 🤔 Quero apreder mais sobre desenvolvimento e engenharia de software
 - 💬 Este perfil é exclusivamente para meus estudos (Aceito críticas construtivas)
 - 😄 Ela/Dela
+
