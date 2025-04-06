@@ -11,7 +11,7 @@
 <a href = "mailto:ana.l.silva.2303@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/ana-silva-555675358" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 ---
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and technologies
 
 <img 
     align="left" 
@@ -56,7 +56,7 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Languages and technology
 
 <p>
   <img 
@@ -76,3 +76,4 @@
 
 </p>
 
+### statistics
